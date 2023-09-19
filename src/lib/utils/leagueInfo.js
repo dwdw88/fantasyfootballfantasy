@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID : "735402335836168192",
+      "managerID":"735402335836168192",
       "name": "Kevin",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Beaumont", // (optional)
@@ -46,8 +46,8 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "741019610467504128",
-      "name": Kyle",
+      "managerID": "741019610467504128",
+      "name": "Kyle",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Calgary", // (optional)
       "bio": "Hey did you guys see this",
@@ -69,7 +69,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "741021089005707264",
+      "managerID": "741021089005707264",
       "name": "Dan",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Toronto", // (optional)
@@ -92,7 +92,7 @@ export const managers = [
     }, 
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "858483818074603520",
+      "managerID": "858483818074603520",
       "name": "Sean",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
@@ -115,7 +115,7 @@ export const managers = [
     },
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "858795368282976256",
+      "managerID": "858795368282976256",
       "name": "Chris",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
@@ -138,7 +138,7 @@ export const managers = [
     },
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "995784413797523456",
+      "managerID": "995784413797523456",
       "name": "Mark",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
@@ -161,7 +161,7 @@ export const managers = [
     },
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "995854099134439424",
+      "managerID": "995854099134439424",
       "name": "Tyrone",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
@@ -184,7 +184,7 @@ export const managers = [
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "995973819695259648",
+      "managerID": "995973819695259648",
       "name": "Adam",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
@@ -207,7 +207,7 @@ export const managers = [
     },
       {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "996231969719656448",
+      "managerID": "996231969719656448",
       "name": "Andrew",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
@@ -230,7 +230,7 @@ export const managers = [
     },
 {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "996284165639340032",
+      "managerID": "996284165639340032",
       "name": "Corey",
       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
