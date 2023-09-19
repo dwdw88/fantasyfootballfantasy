@@ -4,8 +4,8 @@ const app = express();
 
 // Define a route for manager photos
 app.get('static/managers', (req, res) => {
-  const managerName = req.params.managerName;
-  const photoPath = path.join(__dirname, 'static/managers', `${managerName}.png`);
+  const managersName = req.params.managersName;
+  const photoPath = path.join(__dirname, 'static/managers', `${managersName}.png`);
 
   // Check if the photo file exists
   // If it exists, send the photo as a response
