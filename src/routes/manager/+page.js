@@ -21,6 +21,10 @@ export async function load({ url }) {
 
     const manager = url?.searchParams?.get('manager');
 
+    const managerName = "Adam";
+    const photoURL = `/static/managers/${managerName}.png`;
+
+
     const props = {
         manager: manager && manager < managersObj.length ? manager : -1,
         managers: managersObj,
