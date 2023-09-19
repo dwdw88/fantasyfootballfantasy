@@ -71,7 +71,7 @@ export const managers = [
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "741021089005707264",
       "name": "Dan",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Toronto", // (optional)
       "bio": "Is he due or is he doodoo?",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -83,7 +83,7 @@ export const managers = [
         link: 10, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 18877, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 1111, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "Your fantasy team's philosophy",
@@ -117,7 +117,7 @@ export const managers = [
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "858795368282976256",
       "name": "Chris",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
       "bio": "Please leave me alone.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -163,7 +163,7 @@ export const managers = [
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "995854099134439424",
       "name": "Tyrone",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Edmonton", // (optional)
       "bio": "But that's just me",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -186,7 +186,7 @@ export const managers = [
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "995973819695259648",
       "name": "Adam",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2018, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Vermillion", // (optional)
       "bio": "Well fuck me then...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -209,7 +209,7 @@ export const managers = [
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "996231969719656448",
       "name": "Andrew",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Kitchener", // (optional)
       "bio": "One ship, two ship, red ship, blue ship...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -232,7 +232,7 @@ export const managers = [
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "996284165639340032",
       "name": "Corey",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": 2018, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Vancouver", // (optional)
       "bio": "Why didn't yahoo tell me",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
