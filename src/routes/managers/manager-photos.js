@@ -3,7 +3,7 @@ const path = require('path');
 const app = express();
 
 // Define a route for manager photos
-app.get('/manager-photos/:managerName', (req, res) => {
+app.get('static/managers', (req, res) => {
   const managerName = req.params.managerName;
   const photoPath = path.join(__dirname, 'static/managers', `${managerName}.png`);
 
