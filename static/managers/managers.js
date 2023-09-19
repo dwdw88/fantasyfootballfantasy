@@ -1,0 +1,1 @@
+"photo": "/managers/adam.jpg"
