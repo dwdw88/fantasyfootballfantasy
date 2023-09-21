@@ -9,8 +9,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 export const homepageText = `
   <p>Welcome to our Street Rat Fantasy Page.</p>
   <p>It's like Sleeper... but different!</p>
-  <p>For Yahoo League Data Exports for 2014 to 2022</p>
-  <p>Please visit <a href="https://drive.google.com/drive/folders/1D2vkY1kn2OsisTzEnrQvRZ_8jWRrMv0S?usp=sharing" target="_blank">Google Drive</a>
+  <p><a href="https://drive.google.com/drive/folders/1D2vkY1kn2OsisTzEnrQvRZ_8jWRrMv0S?usp=sharing" target="_blank">Yahoo League Data Exports for 2014 to 2022</a>
 </p>
 `;
 
